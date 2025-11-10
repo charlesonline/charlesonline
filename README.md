@@ -50,5 +50,4 @@ I focus on clean architecture, performance and delivering real business value.
 ---
 
 ### Inspiração / Inspiration
-> “Código é ferramenta. A solução é o produto.”
 > “Code is just a tool. The solution is the real product.”
