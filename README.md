@@ -27,7 +27,7 @@ I focus on clean architecture, performance and delivering real business value.
 
 ### DevOps / Infra
 <p>
-<a><img src="https://skillicons.dev/icons?i=docker,git,linux,apple,postgres,mysql" height="48"></a>
+<a><img src="https://skillicons.dev/icons?i=docker,git,linux,apple,postgres,mysql,sqlite" height="48"></a>
 </p>
 
 ---
